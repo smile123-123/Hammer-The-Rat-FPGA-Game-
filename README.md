@@ -4,4 +4,4 @@
 
 How it works : The moniter screen would start a prompt asking the user to click anywhere to start. A 16x16 pixel rat would run across the screen to a target where a hammer is seen. To control the hammer the user has to physically hold the fpga board in an upright position and motion it hit when the rat gets to where the target is and the score depending on how accurately the mouse was hit will be displayed on the top of the screen. 
 
-https://github.com/smile123-123/Hammer-The-Rat-FPGA-Game-/blob/main/Vitis_files/main_video_test.cpp
+[Application on Vitis using C++](https://github.com/smile123-123/Hammer-The-Rat-FPGA-Game-/blob/main/Vitis_files/main_video_test.cpp)
